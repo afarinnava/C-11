@@ -1,4 +1,4 @@
-# C-11
+# Dynamically Allocated Array
 ##################################################################<br />
 This is one of the Programming challeges from Gaddis C++ textbook.<br />
 Using Dynamically allocated arrays and structs together in order <br />
