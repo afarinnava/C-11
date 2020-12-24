@@ -1,11 +1,16 @@
 # C-11
-##################################################################
-This is one of the Programming challeges from Gaddis C++ textbook.
-Using Dynamically allocated arrays and structs together in order 
-to store data of students.
-###################################################################
-Write a program that uses a structure to store the following data:
-Name, Idnum, Tests, Average, Grade
+##################################################################<br />
+This is one of the Programming challeges from Gaddis C++ textbook.<br />
+Using Dynamically allocated arrays and structs together in order <br />
+to store data of students.<br />
+###################################################################<br />
+Write a program that uses a structure to store the following data:<br />
+* Name 
+* Idnum 
+* Tests 
+* Average 
+* Grade<br />
+
 The program should keep a list of test scores for a group of students. It should ask the
 user how many test scores there are to be and how many students there are. It should
 then dynamically allocate an array of structures. Each structure’s Tests member
